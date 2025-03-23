@@ -1,0 +1,23 @@
+.container {
+  background: #fff8f5;
+  margin: 0;
+  max-width: 100%;
+}
+
+.buttons {
+  color: #c02425;
+  border-color: #c02425;
+  border-width: 2px;
+  background-color: #fff8f5;
+}
+
+.buttons:hover {
+  color: #fff8f5;
+  background-color: #c02425;
+  border-color: #fff8f5;
+}
+
+.headings {
+  color: red;
+  margin: 30px 0;
+}

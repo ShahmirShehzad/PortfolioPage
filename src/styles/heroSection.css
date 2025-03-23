@@ -1,0 +1,36 @@
+.heroContainer {
+  padding: 96px 0;
+}
+
+.heroH1 {
+  font-size: 36px;
+}
+
+.heroBio {
+  font-size: 26px;
+  margin: 20px 0;
+}
+
+.heroBtn1 {
+  font-size: 18px;
+  background-color: #c02425;
+  color: #fff8f5;
+  border: none;
+  margin-right: 15px;
+}
+
+.heroBtn1:hover {
+  background-color: #c02425 !important;
+}
+
+.heroBtn2 {
+  font-size: 18px;
+  color: #c02425 !important;
+  border-color: #c02425 !important;
+  background-color: #fff8f5;
+}
+
+.heroBtn2:hover,
+.heroBtn2:active {
+  background-color: #fff8f5 !important;
+}
